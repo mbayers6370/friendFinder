@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(230, 230, 230);
+}
+
+.jumbotron{
+    background-color: rgb(1, 41, 11);
+    border-radius: 0;
+    padding: 0;
+}
+
+.center{
+    text-align: center;
+    color: white;
+}
+
+#logo{
+    width: 40%;
+}
+
+.carousel-inner{
+    width: 25%;
+    margin-left: 20%;
+    float: left;
+}
+
+.body-text{
+    padding-left: 22%;
+    padding-top: 25%;
+    font-size: 30px;
+    float: left;
+    font-family: 'Nanum Pen Script', cursive;
+    text-align: center;
+    width: 50%;
+}
+
+.survey{
+    background-color: rgb(1, 41, 11);
+    border-color: rgb(1, 41, 11);
+    width: 100px;
+    height: 33px;
+    text-decoration: none;
+}
+
+a:link {
+    color: white;
+  }
+  
+a:visited {
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+footer{
+    background-color: rgb(1, 41, 11);
+    height: 50px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    padding-top: 1%;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+}
+
+#questions{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 30px;
+}
+
+.survey-center{
+    text-align: center;
+    font-size: 40px;
+}
+
+.submit{
+    background-color: rgb(1, 41, 11);
+    border-color: rgb(1, 41, 11);
+    text-decoration: none;
+}
