@@ -33,7 +33,7 @@ var friends = [
    },
    {
     "name":"Lana",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"../public/assets/images/smiles.jpg",
     "scores":[
         1,
         1,
@@ -49,7 +49,7 @@ var friends = [
    },
    {
     "name":"Carey",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"../public/assets/images/sunhat2.jpg",
     "scores":[
         4,
         3,
@@ -61,6 +61,102 @@ var friends = [
         1,
         2,
         1
+      ]
+   },
+   {
+    "name":"Mark",
+    "photo":"../public/assets/images/dress-shirt.jpg",
+    "scores":[
+        2,
+        5,
+        5,
+        5,
+        4,
+        3,
+        5,
+        3,
+        4,
+        5
+      ]
+   },
+   {
+    "name":"Jay",
+    "photo":"../public/assets/images/walking.jpg",
+    "scores":[
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        2,
+        3,
+        1
+      ]
+   },
+   {
+    "name":"Jakob",
+    "photo":"../public/assets/images/crossedarms.jpg",
+    "scores":[
+        3,
+        3,
+        2,
+        2,
+        1,
+        1,
+        2,
+        5,
+        5,
+        5
+      ]
+   },
+   {
+    "name":"Peter",
+    "photo":"../public/assets/images/glasses.jpg",
+    "scores":[
+        2,
+        4,
+        4,
+        2,
+        1,
+        1,
+        2,
+        5,
+        1,
+        1
+      ]
+   },
+   {
+    "name":"Nick",
+    "photo":"../public/assets/images/closeup.jpg",
+    "scores":[
+        5,
+        5,
+        4,
+        4,
+        4,
+        4,
+        2,
+        2,
+        1,
+        1
+      ]
+   },
+   {
+    "name":"John",
+    "photo":"../public/assets/images/green.jpg",
+    "scores":[
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        3
       ]
    }
 
